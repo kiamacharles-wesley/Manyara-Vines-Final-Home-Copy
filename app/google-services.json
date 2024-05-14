@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542147634978",
+    "project_id": "apolo-and-charles-express",
+    "storage_bucket": "apolo-and-charles-express.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542147634978:android:4b1815cd49553bab99677b",
+        "android_client_info": {
+          "package_name": "net.kiama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS0-9Xv2FNdWq2-hJVWcmTqDWOwDCjc6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
